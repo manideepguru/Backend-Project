@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start index.js"
+  },
+  "author": "Manideep",
+  "license": "ISC",
+  "description": ""
+}
